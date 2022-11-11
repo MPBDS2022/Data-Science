@@ -3,7 +3,7 @@
 ## [Capstone Project - Deep Learning Methods for Facial Emotion Recognition](https://github.com/MPBDS2022/Data-Science/tree/main/capstone)
 <br>
 
-<img src="capstone/final_model.psd" alt="final model architecture" />
+<img src="capstone/final_model.png" alt="final model architecture" />
 <br>
 
 ------

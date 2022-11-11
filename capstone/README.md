@@ -4,9 +4,10 @@
 <a href="https://prolearn.mit.edu/applied-data-science-program" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/2560px-MIT_logo.svg.png" alt="MIT" width="40" /></a> **MIT Applied Data Science Program**
 ------
 ## **Project files include:**
-- Slide presentation for this capstone project. This was presented live before a panel of program evaluators. Presented here as a PDF.
 
-- The Capstone Final Report. This concise 9 page report includes:
+- <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/MPB_capstone_presentation.pdf">Slide presentation</a> for this capstone project. This was presented live before a panel of program evaluators. Provided here as a PDF.
+
+- The <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/MPB-capstone-REPORT.pdf">Capstone Final Report</a>. This concise 9 page report includes:
   - Executive Summary 
   - Problem Summary
   - Solution Design
@@ -15,18 +16,18 @@
   - Key Recommendations for Further Analysis and Implementation
   - Bibliography
 
-- Convolution Neural Network model build and performance testing code
+-  <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/MPB_capstone_code.ipynb">Convolutional Neural Network model build and performance testing code</a>
 -------
 ## **The Tech Stack for this project includes:**
 
-- Python<a href="https://www.python.org" target="_blank" rel="noreferrer"></a>
-- Numpy<a href="https://numpy.org/" target="_blank" rel="noreferrer"> </a>
-- matplotlib<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"></a>
-- Pandas<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"></a>
-- Seaborn<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"></a>
-- Scikit Learn<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"></a>
-- TensorFlow<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"></a>
-- Keras<a href="https://keras.io/" target="_blank" rel="noreferrer"> </a>
+- <a href="https://www.python.org" target="_blank" rel="noreferrer">Python</a>
+- <a href="https://numpy.org/" target="_blank" rel="noreferrer">Numpy</a>
+- <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">matplotlib</a>
+- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">Pandas</a>
+- <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">Seaborn</a>
+- <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">Scikit Learn</a>
+- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">TensorFlow</a>
+- <a href="https://keras.io/" target="_blank" rel="noreferrer">Keras</a>
 
 -------
 ## Connect with me:

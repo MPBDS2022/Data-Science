@@ -1,17 +1,10 @@
-<ho1 align="center">Data Science - Exploratory Data Analysis</h1>
+<ho1 align="center">Data Science - Data Cleaning</h1>
 
-- ## [FIRST EDA PROJECT](https://github.com/MPBDS2022/Data-Science/XXXXX)
+- ## [FIRST DATA CLENING PROJECT](https://github.com/MPBDS2022/Data-Science/XXXXX)
 <br>
 
-
-
-------
-**Additional projects that will be uploaded shortly:**
-- Data Acquisition
-- Data Cleaning
-- Data Preprocessing
-- Principal Component Analysis
-- Clustering Analysis
+- ## [SECOND DATA CLENING PROJECT](https://github.com/MPBDS2022/Data-Science/XXXXX)
+<br>
 
 ---------
 

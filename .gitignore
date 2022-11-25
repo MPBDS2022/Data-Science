@@ -1,1 +1,9 @@
 .DHStore
+EDA/NLP_drug_rev/drug_rev_data/drugsComTest_raw.csv
+*.csv
+EDA/QC_scRNA/.DS_Store
+EDA/steam_EDA/.DS_Store
+data/.DS_Store
+data/.DS_Store
+EDA/.DS_Store
+EDA/NLP_drug_rev/.DS_Store

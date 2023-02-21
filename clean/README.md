@@ -12,7 +12,6 @@
 
 ---
 
-```
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://docs.google.com/presentation/d/e/2PACX-1vQqq8giI5wkEmAxf2gZLHVq5guuubXCUNrXxA1k2z23sdNCqEjKHQ1WQcjR4IIkHQ-wV8-OMUhh5qvQ/embed?start=false&loop=false&delayms=60000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 

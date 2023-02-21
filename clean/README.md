@@ -1,14 +1,13 @@
 # **Data Preparation** 
 
-------
+---
+
 ## **Executive Summary**
-    Every data science endeavor begins with source data that will hopefully provide insights on a question (business, technical, scientific, etc). Each data set will present with its own characteristic data quality issues that must be identified, characterized, and (if problematic) corrected or mitigated.  
 
-    The objective of data preparation is to yield a data set that can be effectively analyzed and, if desired, used as a training resource to make predictions with machine learning methods.  
-
-    The Google slides shown below will step you through the various steps in preparing a challenging dataset for statistical analysis and use in machine learning (shown on a separate page LINK HERE).  
-    
-    Below these slides you will find links to the GitHub repo that holds the python code (in notebook format) used in this project.
+###    Every data science endeavor begins with source data that will hopefully provide insights on a question (business, technical, scientific, etc). Each data set will present with its own characteristic data quality issues that must be identified, characterized, and (if problematic) corrected or mitigated.
+###    The objective of data preparation is to yield a data set that can be effectively analyzed and, if desired, used as a training resource to make predictions with machine learning methods.  
+###.  The Google slides shown below will step you through the various steps in preparing a challenging dataset for statistical analysis and use in machine learning (shown on a separate page LINK HERE).  
+###.  Below these slides you will find links to the GitHub repo that holds the python code (in notebook format) used in this project.
 
 ---
 

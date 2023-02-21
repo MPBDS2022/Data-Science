@@ -7,10 +7,11 @@
 <br>
 
 ------
-**Additional projects that will be uploaded shortly:**
+**Additional projects that will be uploaded:**
+- Data Preparation
+- Data Visualization
 - Exploratory Data Analysis
 - Principal Component Analysis
-- Clustering Analysis
 
 ---------
 

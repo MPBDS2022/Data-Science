@@ -2,6 +2,10 @@
 
 ---
 
+![Shiny Apple](https://github.com/MPBDS2022/Data-Science/blob/main/clean/apple_solo.png “Shiny Apple”)
+
+---
+
 ## **Executive Summary**
 
 ###    Every data science endeavor begins with source data that will hopefully provide insights on a question (business, technical, scientific, etc). Each data set will present with its own characteristic data quality issues that must be identified, characterized, and (if problematic) corrected or mitigated.

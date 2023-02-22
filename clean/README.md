@@ -1,19 +1,21 @@
-# **Data Preparation** 
+# **Data Preparation**
 
----
 <img src="apple_solo.png">
+
 ---
 
-## **Executive Summary**
+### Every data science endeavor begins with source data that will hopefully provide insights on a question (business, technical, scientific, etc). Each data set will present with its own characteristic data quality issues that must be identified, characterized, and (if problematic) corrected or mitigated
 
-###    Every data science endeavor begins with source data that will hopefully provide insights on a question (business, technical, scientific, etc). Each data set will present with its own characteristic data quality issues that must be identified, characterized, and (if problematic) corrected or mitigated.
-###    The objective of data preparation is to yield a data set that can be effectively analyzed and, if desired, used as a training resource to make predictions with machine learning methods.  
-###  The Google slides shown below will step you through the various steps in preparing a challenging dataset for statistical analysis and use in machine learning (shown on a separate page LINK HERE).  
-###  Below these slides you will find links to the GitHub repo that holds the python code (in notebook format) used in this project.
+### The objective of data preparation is to yield a data set that can be effectively analyzed and, if desired, used as a training resource to make predictions with machine learning methods  
 
-<img src=“https://github.com/MPBDS2022/Data-Science/blob/main/clean/imgs/sample_dist_plot.png”>
+### The Google slides shown below will step you through the various steps in preparing a challenging dataset for statistical analysis and use in machine learning (shown on a separate page LINK HERE)  
 
-------
+### Below these slides you will find links to the GitHub repo that holds the python code (in notebook format) used in this project
+
+![alt text](imgs/sample_dist_plot.png)
+
+---
+
 ## **Project files include:**
 
 - <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/MPB_capstone_presentation.pdf">Slide presentation</a> for this capstone project. This was presented live before a panel of program evaluators. Provided here as a PDF.
@@ -27,7 +29,7 @@
     - <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/EFFICIENTNET_modded_CAPSTONE.ipynb">EfficientNet B2 optimization</a>
 
 - The <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/MPB-capstone-REPORT.pdf">Capstone Final Report</a>. This concise 9 page report includes:
-  - Executive Summary 
+  - Executive Summary
   - Problem Summary
   - Solution Design
   - Analysis and Key Insights
@@ -35,8 +37,10 @@
   - Key Recommendations for Further Analysis and Implementation
   - Bibliography
 
--  <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/MPB_capstone_code.ipynb">Convolutional Neural Network model build and performance testing code</a>
+- <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/MPB_capstone_code.ipynb">Convolutional Neural Network model build and performance testing code</a>
+
 -------
+
 ## **The Tech Stack for this project includes:**
 
 - <a href="https://www.python.org" target="_blank" rel="noreferrer">Python</a>
@@ -49,8 +53,9 @@
 - <a href="https://keras.io/" target="_blank" rel="noreferrer">Keras</a>
 
 -------
-## Connect with me:
+
+## Connect with me
+
 - email: nika.boyce@gmail.com
 
 - <a href="https://prolearn.mit.edu/applied-data-science-program" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikaboyce" height="30" width="40" /></a>
-

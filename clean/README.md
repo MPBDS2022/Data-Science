@@ -11,7 +11,7 @@
 ###  The Google slides shown below will step you through the various steps in preparing a challenging dataset for statistical analysis and use in machine learning (shown on a separate page LINK HERE).  
 ###  Below these slides you will find links to the GitHub repo that holds the python code (in notebook format) used in this project.
 
-<img src=“”sample_dist_plot.png” width=50% height=50%>
+<img src=“imgs/sample_dist_plot.png” width=50% height=50%>
 
 ------
 ## **Project files include:**

@@ -1,9 +1,26 @@
-.DHStore
-EDA/NLP_drug_rev/drug_rev_data/drugsComTest_raw.csv
-*.csv
-EDA/QC_scRNA/.DS_Store
-EDA/steam_EDA/.DS_Store
-data/.DS_Store
-data/.DS_Store
-EDA/.DS_Store
-EDA/NLP_drug_rev/.DS_Store
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk

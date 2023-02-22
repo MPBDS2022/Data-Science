@@ -1,6 +1,6 @@
 # **Data Preparation**
 
-<img src="apple_solo.png">
+<img src="imgs/apple_solo.png">
 
 ---
 
@@ -10,13 +10,26 @@ Every data science endeavor begins with source data that will hopefully provide 
 
 The objective of this project is to showcase various methods that can be used in data preparation to yield a data set that can be effectively analyzed and, if desired, used to train machine learning models.  
 
+---
+## Assets
+
+These Google slides ([LINK to slides PDF](clean/JUST_clean_data_project.pdf)) will step you through the various steps in preparing a challenging dataset for statistical analysis and use in machine learning (shown in a [separate project](ML/code/placeholder.ipynb) ).
+
+### View the python notebook for this project here [LINK](hhh)
+
+## Data Preparation Methods
+
+- 
+- 
+- Tech Stack [shown below](#the-tech-stack)
+
+--- 
+
 ## **Methods**
 
-These Google slides ([LINK to slides PDF](clean/JUST_clean_data_project.pdf)) will step you through the various steps in preparing a challenging dataset for statistical analysis and use in machine learning (shown on a separate project LINK HERE.  
-
-
-
 ![alt text](imgs/sample_dist_plot.png)
+
+![alt text](imgs/sample_BOX_plot.png)
 
 ---
 
@@ -43,9 +56,9 @@ These Google slides ([LINK to slides PDF](clean/JUST_clean_data_project.pdf)) wi
 
 - <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/MPB_capstone_code.ipynb">Convolutional Neural Network model build and performance testing code</a>
 
--------
+---
 
-## **The Tech Stack for this project includes:**
+## **The Tech Stack**
 
 - <a href="https://www.python.org" target="_blank" rel="noreferrer">Python</a>
 - <a href="https://numpy.org/" target="_blank" rel="noreferrer">Numpy</a>

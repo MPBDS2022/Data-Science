@@ -2,7 +2,11 @@
 
 ---
 
-![Shiny Apple](https://github.com/MPBDS2022/Data-Science/blob/main/clean/apple_solo.png “Shiny Apple”)
+![Shiny Apple](https://github.com/MPBDS2022/Data-Science/blob/main/clean/apple_solo.png?raw=true)
+
+![Shiny Apple](apple_solo.png?raw=true)
+
+![Shiny Apple](apple_solo.png)
 
 ---
 

@@ -3,7 +3,7 @@
 ---
 ![Shiny Apple](apple_solo.png)
 
-<img src="apple_solo.png" width=50% height=50%>
+<img src="apple_solo.png">
 
 ---
 

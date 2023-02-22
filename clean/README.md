@@ -1,10 +1,7 @@
 # **Data Preparation** 
 
 ---
-![Shiny Apple](apple_solo.png)
-
 <img src="apple_solo.png">
-
 ---
 
 ## **Executive Summary**

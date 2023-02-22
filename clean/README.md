@@ -12,7 +12,7 @@ The objective of this project is to showcase various methods that can be used in
 
 ## **Methods**
 
-These Google slides (LINK) will step you through the various steps in preparing a challenging dataset for statistical analysis and use in machine learning (shown on a separate page LINK HERE.  
+These Google slides ([LINK to slides PDF](clean/JUST_clean_data_project.pdf)) will step you through the various steps in preparing a challenging dataset for statistical analysis and use in machine learning (shown on a separate project LINK HERE.  
 
 
 

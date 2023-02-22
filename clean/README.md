@@ -11,16 +11,28 @@ Every data science endeavor begins with source data that will hopefully provide 
 The objective of this project is to showcase various methods that can be used in data preparation to yield a data set that can be effectively analyzed and, if desired, used to train machine learning models.  
 
 ---
-## Assets
+# Assets
 
-These Google slides ([LINK to slides PDF](clean/JUST_clean_data_project.pdf)) will step you through the various steps in preparing a challenging dataset for statistical analysis and use in machine learning (shown in a [separate project](ML/code/placeholder.ipynb) ).
+- These Google slides ([LINK to slides PDF](clean/JUST_clean_data_project.pdf)) will step you through the various steps in preparing a challenging dataset for statistical analysis and use in machine learning (shown in a [separate project](ML/code/placeholder.ipynb) ).
 
-### View the python notebook for this project here [LINK](hhh)
+- View the python notebook for this project here [LINK](hhh)
 
-## Data Preparation Methods
+# Data Preparation Methods
 
-- 
-- 
+- Data Quality Assessment
+  - Create DataFrame from CSV data and navigate through the unprocessed data to begin to identify data issues
+  - Check for accuracy, completeness, consistency, etc
+- Data Pre-Processing
+  - Cleaning, transforming, and possibly reducing the complexity of data
+    - Correct spelling and naming format issues
+    - Drop unnecessary columns
+    - Check and fix datatypes for correct format
+    - Clean up monetary data to be integers versus heterogenous string+int
+    - Check for Missing Data
+    - Encode categorical variables
+      - Identify categories by looking for unique values
+      - Implement a nominal encoding scheme
+    - Outliers
 - Tech Stack [shown below](#the-tech-stack)
 
 --- 
@@ -66,8 +78,7 @@ These Google slides ([LINK to slides PDF](clean/JUST_clean_data_project.pdf)) wi
 - <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">Pandas</a>
 - <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">Seaborn</a>
 - <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">Scikit Learn</a>
-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">TensorFlow</a>
-- <a href="https://keras.io/" target="_blank" rel="noreferrer">Keras</a>
+- <a href="https://scipy.org/">SciPy</a>
 
 -------
 

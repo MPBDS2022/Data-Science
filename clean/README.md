@@ -1,5 +1,8 @@
 # **Data Preparation**
 
+<center>This and other projects can be found at my Data Science Project Portfolio site <a href="https://www.monicaboyce.com">MonicaBoyce.com</a></center>
+<br>
+
 <img src="imgs/apple_solo.png">
 
 ---
@@ -11,11 +14,12 @@ Every data science endeavor begins with source data that will hopefully provide 
 The objective of this project is to showcase various methods that can be used in data preparation to yield a data set that can be effectively analyzed and, if desired, used to train machine learning models.  
 
 ---
+
 # Assets
 
-- These Google slides ([LINK to slides PDF](clean/JUST_clean_data_project.pdf)) will step you through the various steps in preparing a challenging dataset for statistical analysis and use in machine learning (shown in a [separate project](ML/code/placeholder.ipynb) ).
+- These Google slides ([slides PDF](clean/JUST_clean_data_project.pdf)) will step you through the various steps in preparing a challenging dataset for statistical analysis and use in machine learning (shown in a [separate project](ML/code/placeholder.ipynb) ).
 
-- View the python notebook for this project here [LINK](hhh)
+- View the python notebook for this project [here](/code/data_prep_portfolio_FINAL_4_github.ipynb)
 
 # Data Preparation Methods
 
@@ -35,38 +39,27 @@ The objective of this project is to showcase various methods that can be used in
     - Outliers
 - Tech Stack [shown below](#the-tech-stack)
 
---- 
-
-## **Methods**
-
-![alt text](imgs/sample_dist_plot.png)
-
-![alt text](imgs/sample_BOX_plot.png)
-
 ---
 
 ## **Project files include:**
 
-- <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/MPB_capstone_presentation.pdf">Slide presentation</a> for this capstone project. This was presented live before a panel of program evaluators. Provided here as a PDF.
-  - Related jupyter notebook
-    - <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/MPB_capstone_code.ipynb">Final code submitted for this project</a>
+<a href="clean/clean_data_project_SLIDES_FINAL.pdf">Slide presentation</a> Provided here as a PDF.
 
-- <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/NEW_MPB_PRESENTATION_CAPSTONE.pdf">UPDATED Slide presentation on Transfer Learning Model Optimization</a>. Since the completion of this course, I have gone back and examined issues I had with the transfer learning aspects of this project. Please see these slides for a treatment on what I have learned. Provided here as a PDF.
-  - Related jupyter notebooks:
-    - <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/VGG16_modded_CAPSTONE.ipynb">VGG16 optimization</a>
-    - <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/RESNET_modded_CAPSTONE.ipynb">ResNet101 optimization</a>
-    - <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/EFFICIENTNET_modded_CAPSTONE.ipynb">EfficientNet B2 optimization</a>
+The code that I created for this data preparation project can be found in this jupyter notebook
 
-- The <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/MPB-capstone-REPORT.pdf">Capstone Final Report</a>. This concise 9 page report includes:
-  - Executive Summary
-  - Problem Summary
-  - Solution Design
-  - Analysis and Key Insights
-  - Key Limitations
-  - Key Recommendations for Further Analysis and Implementation
-  - Bibliography
+- <a href="clean/code/data_prep_portfolio_FINAL_4_github.ipynb">Project notebook</a>
 
-- <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/MPB_capstone_code.ipynb">Convolutional Neural Network model build and performance testing code</a>
+---
+
+## **Sample outcomes**
+
+Throughout the notebook and slides shared above you will see a progression from raw data to data that has been cleaned and prepared from statistical analysis and machine learning.
+
+Below are a couple screenshots of data before and after the cleaning methods.
+
+![alt text](imgs/sample_dist_plot.png)
+
+![alt text](imgs/sample_BOX_plot.png)
 
 ---
 
@@ -80,10 +73,12 @@ The objective of this project is to showcase various methods that can be used in
 - <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">Scikit Learn</a>
 - <a href="https://scipy.org/">SciPy</a>
 
--------
+---
 
 ## Connect with me
 
+- Data Science Project Portfolio site -  <a href="https://www.monicaboyce.com">MonicaBoyce.com</a>
+
 - email: nika.boyce@gmail.com
 
-- <a href="https://prolearn.mit.edu/applied-data-science-program" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikaboyce" height="30" width="40" /></a>
+- <a href="https://www.linkedin.com/in/nikaboyce/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikaboyce" height="30" width="40" /></a>

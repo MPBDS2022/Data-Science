@@ -17,7 +17,7 @@ The objective of this project is to showcase various methods that can be used in
 
 ## **Project files include:**
 
-- These Google slides ([slides PDF](https://github.com/MPBDS2022/Data-Science/tree/main/clean/clean_data_project_FINAL.pdf)) will step you through the various steps in preparing a challenging dataset for statistical analysis and use in machine learning (shown in a [separate project](https://github.com/MPBDS2022/Data-Science/tree/main/ML/code/placeholder.ipynb)).
+- These Google slides ([slides PDF](https://github.com/MPBDS2022/Data-Science/tree/main/clean/clean_data_project_SLIDES_FINAL.pdf)) will step you through the various steps in preparing a challenging dataset for statistical analysis and use in machine learning (shown in a [separate project](https://github.com/MPBDS2022/Data-Science/tree/main/ML/code/placeholder.ipynb)).
 
 - The code that I created for this data preparation project can be found in this jupyter notebook [here](https://github.com/MPBDS2022/Data-Science/tree/main/clean/code/data_prep_portfolio_FINAL_4_github.ipynb)
 

@@ -43,11 +43,11 @@ The objective of this project is to showcase various methods that can be used in
 
 ## **Project files include:**
 
-<a href="clean_data_project_SLIDES_FINAL.pdf">Slide presentation</a> Provided here as a PDF.
+<a href="https://github.com/MPBDS2022/Data-Science/blob/9338e0d38d15d99d15f286665f4e13cbf9c683ae/clean/clean_data_project_SLIDES_FINAL.pdf">Slide presentation</a> Provided here as a PDF.
 
 The code that I created for this data preparation project can be found in this jupyter notebook
 
-- <a href="code/data_prep_portfolio_FINAL_4_github.ipynb">Project notebook</a>
+- <a href="https://github.com/MPBDS2022/Data-Science/blob/9338e0d38d15d99d15f286665f4e13cbf9c683ae/clean/code/data_prep_portfolio_FINAL_4_github.ipynb">Project notebook</a>
 
 ---
 
